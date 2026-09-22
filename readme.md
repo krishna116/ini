@@ -8,8 +8,8 @@ A classic ini file parser written in C++.
 #include "IniParser.h"
 
 int main(){
-  std::string str = R"(;commmment line 1.
-    ;commmment line 2.
+  std::string str = R"(;comment line 1.
+    ;comment line 2.
     [section1]
       key1 = value1;
       key2 = value2;
