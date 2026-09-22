@@ -1,6 +1,6 @@
 # ini file parser library
 
-A Classic ini file parser written in C++.
+A classic ini file parser written in C++.
 
 ## Example
 ```C++
